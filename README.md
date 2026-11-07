@@ -79,7 +79,7 @@ WordCraft TH is an independent Thai-edition preparation project for [WordCraft b
 
 ### Features and workflow
 
-เขียนเอกสาร จัดรูปแบบข้อความ และทำงานกับไฟล์เอกสาร. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
+Write and format documents, lay out text, tables and images, and work with supported DOCX files. See the upstream README for supported workflows and limitations. Source capabilities are not a claim of completed Thai localization.
 
 ### Downloads and installation
 
