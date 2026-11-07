@@ -31,7 +31,25 @@
         "text": "ปรับการอ่าน DOCX ให้ shading แบบ nil ไม่ลงสี และใช้สีกรอบจาก theme ตามที่กำหนด",
         "source": "https://github.com/storytold/wordcraft/pull/4705"
       }
+    ],
+    "releaseCheckedAt": "2026-11-07T15:57:45.414988+00:00",
+    "releaseHistory": [
+      {
+        "tag": "v0.16.0",
+        "publishedAt": "2026-11-06T20:22:22Z",
+        "url": "https://github.com/storytold/wordcraft/releases/tag/v0.16.0"
+      },
+      {
+        "tag": "v0.15.2",
+        "publishedAt": "2026-11-05T01:34:30Z",
+        "url": "https://github.com/storytold/wordcraft/releases/tag/v0.15.2"
+      },
+      {
+        "tag": "v0.15.1",
+        "publishedAt": "2026-11-04T03:51:07Z",
+        "url": "https://github.com/storytold/wordcraft/releases/tag/v0.15.1"
+      }
     ]
   },
-  "versionLog": "https://tapanapon.com/one-per-craft/versions#wordcraft"
+  "versionLog": "https://github.com/tapanapon-com/wordcraft-th/blob/main/docs/version-log.md"
 }
