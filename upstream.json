@@ -1,0 +1,37 @@
+{
+  "id": "wordcraft",
+  "name": "WordCraft",
+  "repository": "https://github.com/tapanapon-com/wordcraft-th",
+  "status": "documentation-only",
+  "containsApplicationSource": false,
+  "thaiVersion": null,
+  "thaiArticle": null,
+  "upstream": {
+    "repository": "https://github.com/storytold/wordcraft",
+    "releaseTag": "v0.16.0",
+    "releaseUrl": "https://github.com/storytold/wordcraft/releases/tag/v0.16.0",
+    "publishedAt": "2026-11-06T20:22:22Z",
+    "checkedAt": "2026-11-07T03:59:09.433727+00:00",
+    "sourceCommit": "729cd0a5fc953bbedbfdec4f6af18ad6d1780b3b",
+    "sourceVersion": "0.15.1",
+    "macDownload": "https://github.com/storytold/wordcraft/releases/download/v0.16.0/wordcraft-0.16.0-macos-universal.dmg",
+    "windowsDownload": "https://github.com/storytold/wordcraft/releases/download/v0.16.0/wordcraft-0.16.0-windows-x64.msi",
+    "portableDownload": "https://github.com/storytold/wordcraft/releases/download/v0.16.0/wordcraft-0.16.0-windows-x64-portable.zip",
+    "checksums": "https://github.com/storytold/wordcraft/releases/download/v0.16.0/SHA256SUMS.txt",
+    "changes": [
+      {
+        "text": "แก้การคลิกในกล่องข้อความให้เข้าตัวอักษร แทนภาพที่อยู่ข้างใต้",
+        "source": "https://github.com/storytold/wordcraft/pull/4240"
+      },
+      {
+        "text": "แสดงว่าฟอนต์ที่เอกสารใช้อยู่ตัวใดยังไม่ได้ติดตั้งในเครื่อง",
+        "source": "https://github.com/storytold/wordcraft/pull/4770"
+      },
+      {
+        "text": "ปรับการอ่าน DOCX ให้ shading แบบ nil ไม่ลงสี และใช้สีกรอบจาก theme ตามที่กำหนด",
+        "source": "https://github.com/storytold/wordcraft/pull/4705"
+      }
+    ]
+  },
+  "versionLog": "https://tapanapon.com/one-per-craft/versions#wordcraft"
+}
